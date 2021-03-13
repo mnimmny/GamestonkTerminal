@@ -3,5 +3,10 @@ __pycache__/
 .DS_Store
 .env
 .venv
+.vscode
+.ipynb_checkpoints
 env/
 venv/
+notebooks/reports/*
+!notebooks/reports/.gitkeep
+.python-version
